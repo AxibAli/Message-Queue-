@@ -1,0 +1,3 @@
+-add Servcie in Services.msc theough WindowsService.txt
+-first run MyFirstService Project
+-then run Project MySecondService Project

@@ -1,0 +1,2 @@
+-Myfirst Service (write in Message Queue)
+-MySecond Service (Read From Message Queue)

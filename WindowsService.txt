@@ -1,0 +1,8 @@
+STEPS To install a windows service.
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
+InstallUtil.exe C:\Users\Azib\source\repos\Message_Queue\MyFirstService\bin\Debug\MyFirstService.exe
+InstallUtil.exe C:\Users\Azib\source\repos\Message_Queue\MySecondService\bin\Debug\MySecondService.exe
+
+STEPS To Uninstall a windows service.
+InstallUtil.exe -u C:\Users\Azib\source\repos\Message_Queue\MyFirstService\bin\Debug\MyFirstService.exe
+InstallUtil.exe -u C:\Users\Azib\source\repos\Message_Queue\MySecondService\bin\Debug\MySecondService.exe
